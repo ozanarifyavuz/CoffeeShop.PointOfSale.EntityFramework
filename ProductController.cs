@@ -4,9 +4,8 @@ namespace CoffeeShop.PointOfSale.EntityFramework;
 
 internal class ProductController
 {
-    internal static void AddProduct()
+    internal static void AddProduct(string name)
     {
-        var name = AnsiConsole.Ask<string>("Product's name: ");
         using var db = new ProductsContext();
         db.Add(new Product { Name = name });
         db.SaveChanges();
@@ -17,14 +16,19 @@ internal class ProductController
         throw new NotImplementedException();
     }
 
-    internal static void GetProductById()
+    internal static Product GetProductById(int id)
     {
-        throw new NotImplementedException();
+        using var db = new ProductsContext();
+        var product = db.Products.SingleOrDefault(x => x.Id == id);
+
+        return product;
     }
 
-    internal static void GetProducts()
+    internal static List<Product> GetProducts()
     {
-        throw new NotImplementedException();
+        using var db = new ProductsContext();
+        var products = db.Products.ToList<Product>();
+        return products;
     }
 
     internal static void UpdateProduct()

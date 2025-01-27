@@ -3,12 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\Ozan Arif Yavuz\\source\\repos\\ozanarifyavuz\\CoffeeShop.PointOfSale.EntityFramework\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{BA9D5158-9738-42BF-A9EE-5270A9960B9D}|CoffeeShop.PointOfSale.EntityFramework.csproj|c:\\users\\ozan arif yavuz\\source\\repos\\ozanarifyavuz\\coffeeshop.pointofsale.entityframework\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA9D5158-9738-42BF-A9EE-5270A9960B9D}|CoffeeShop.PointOfSale.EntityFramework.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{BA9D5158-9738-42BF-A9EE-5270A9960B9D}|CoffeeShop.PointOfSale.EntityFramework.csproj|c:\\users\\ozan arif yavuz\\source\\repos\\ozanarifyavuz\\coffeeshop.pointofsale.entityframework\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BA9D5158-9738-42BF-A9EE-5270A9960B9D}|CoffeeShop.PointOfSale.EntityFramework.csproj|solutionrelative:productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BA9D5158-9738-42BF-A9EE-5270A9960B9D}|CoffeeShop.PointOfSale.EntityFramework.csproj|c:\\users\\ozan arif yavuz\\source\\repos\\ozanarifyavuz\\coffeeshop.pointofsale.entityframework\\productscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BA9D5158-9738-42BF-A9EE-5270A9960B9D}|CoffeeShop.PointOfSale.EntityFramework.csproj|solutionrelative:productscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA9D5158-9738-42BF-A9EE-5270A9960B9D}|CoffeeShop.PointOfSale.EntityFramework.csproj|c:\\users\\ozan arif yavuz\\source\\repos\\ozanarifyavuz\\coffeeshop.pointofsale.entityframework\\userinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA9D5158-9738-42BF-A9EE-5270A9960B9D}|CoffeeShop.PointOfSale.EntityFramework.csproj|solutionrelative:userinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA9D5158-9738-42BF-A9EE-5270A9960B9D}|CoffeeShop.PointOfSale.EntityFramework.csproj|c:\\users\\ozan arif yavuz\\source\\repos\\ozanarifyavuz\\coffeeshop.pointofsale.entityframework\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA9D5158-9738-42BF-A9EE-5270A9960B9D}|CoffeeShop.PointOfSale.EntityFramework.csproj|solutionrelative:productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -21,31 +33,66 @@
           "SelectedChildIndex": 2,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\Ozan Arif Yavuz\\source\\repos\\ozanarifyavuz\\CoffeeShop.PointOfSale.EntityFramework\\ProductService.cs",
+              "RelativeDocumentMoniker": "ProductService.cs",
+              "ToolTip": "C:\\Users\\Ozan Arif Yavuz\\source\\repos\\ozanarifyavuz\\CoffeeShop.PointOfSale.EntityFramework\\ProductService.cs",
+              "RelativeToolTip": "ProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T20:08:56.725Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
+              "Title": "UserInterface.cs",
+              "DocumentMoniker": "C:\\Users\\Ozan Arif Yavuz\\source\\repos\\ozanarifyavuz\\CoffeeShop.PointOfSale.EntityFramework\\UserInterface.cs",
+              "RelativeDocumentMoniker": "UserInterface.cs",
+              "ToolTip": "C:\\Users\\Ozan Arif Yavuz\\source\\repos\\ozanarifyavuz\\CoffeeShop.PointOfSale.EntityFramework\\UserInterface.cs",
+              "RelativeToolTip": "UserInterface.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T19:08:01.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ozan Arif Yavuz\\source\\repos\\ozanarifyavuz\\CoffeeShop.PointOfSale.EntityFramework\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Ozan Arif Yavuz\\source\\repos\\ozanarifyavuz\\CoffeeShop.PointOfSale.EntityFramework\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T18:33:46.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "ProductsContext.cs",
               "DocumentMoniker": "C:\\Users\\Ozan Arif Yavuz\\source\\repos\\ozanarifyavuz\\CoffeeShop.PointOfSale.EntityFramework\\ProductsContext.cs",
               "RelativeDocumentMoniker": "ProductsContext.cs",
               "ToolTip": "C:\\Users\\Ozan Arif Yavuz\\source\\repos\\ozanarifyavuz\\CoffeeShop.PointOfSale.EntityFramework\\ProductsContext.cs",
               "RelativeToolTip": "ProductsContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-23T19:30:46.136Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "ProductController.cs",
               "DocumentMoniker": "C:\\Users\\Ozan Arif Yavuz\\source\\repos\\ozanarifyavuz\\CoffeeShop.PointOfSale.EntityFramework\\ProductController.cs",
               "RelativeDocumentMoniker": "ProductController.cs",
               "ToolTip": "C:\\Users\\Ozan Arif Yavuz\\source\\repos\\ozanarifyavuz\\CoffeeShop.PointOfSale.EntityFramework\\ProductController.cs",
               "RelativeToolTip": "ProductController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-23T19:28:59.748Z",
               "EditorCaption": ""
